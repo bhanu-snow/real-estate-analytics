@@ -44,7 +44,7 @@ real-estate-analytics/
 ## Setup Instructions
 1. **Clone Repository**:
     ```powershell
-    git clone <repository-url>
+    git clone <https://github.com/bhanu-snow/real-estate-analytics.git>
     cd real-estate-analytics
     ```
 
